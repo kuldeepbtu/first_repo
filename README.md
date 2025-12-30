@@ -1,4 +1,4 @@
 # first_repo
 This is my first Git Repository
 <br>
-Author - Kuldeep Singh
+Author - Kuldeep Singh Meena
